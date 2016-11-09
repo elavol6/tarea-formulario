@@ -1,0 +1,7 @@
+#Wed Nov 09 12:03:22 CST 2016
+base.0=/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69682b1d2c88087abc93d441848056e3b748b17d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9b77a8fa0eedac1715a05553b837b84795357bb8/classes.dex
+base.1=/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9b77a8fa0eedac1715a05553b837b84795357bb8
+file.0=/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69682b1d2c88087abc93d441848056e3b748b17d/classes.dex

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TareaActivities</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion_contacto">Descripción del contacto</string>
+    <string name="btn_siguiente">SIGUIENTE</string>
+    <string name="btn_editar">EDITAR</string>
+    <string name="titulo_confirma_datos">CONFIRMA DATOS</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="badad28074417b3b77d0772d16fa62ba12944642">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69682b1d2c88087abc93d441848056e3b748b17d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_61dd712894e314ee8aad1b7f5666280e06c22211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f6a019e9d65533bdb2b4dc19525b264c4faa5948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a58a347c81940439767b405b5f00e2c5ef8677aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_724722f303867509a5c4d276c0743218008692d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_0e19afd023cd0d4f75591e8c221ef0aace790eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_2440987593c4891ea6f0d81f9b358fe43d58d48b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_05904db08a1fe7ed4015d680adab4945810cfb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_90193531058bee524755235b581420a8e15bb9f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f4ead6e4788ee2a98a38b6b4d21d7441e645c815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_7d20daa325987be6af943751ff181bc8545fe65e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e1a771c1ec33a9b055a8d76f512ad6b50dfdeede">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9b77a8fa0eedac1715a05553b837b84795357bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_aef7fa021c30067cfa2f115e02ea54cf8340364a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_54f8d390db69e69daa9bbb360f2b9f5fbfc2d7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_45743a976ccc75b366748db8cbdaa29edfa8d288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_dd33a662ac33f88bd4aede109df13f782b2f63ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_26974196a075bfb85f30238a72b7a7ac3e5a1cd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_7cc4d0e9bfc9346b8ce80203506d6cd364f4dffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_a1e38d4ba95b137df3ab62f8fc1aceb7e3259b2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/alfredoul/tareas/TareaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0b10173c581ec262e7f5a2a4a6d9c631d556ebd3/classes.dex" />
+    </item>
+
+</items>
